@@ -1,8 +1,0 @@
-dingding:
-  token:
-
-splider:
-  parallelism: 4
-  delay: 3 #s
-  all: false # 是否全部抓取
-

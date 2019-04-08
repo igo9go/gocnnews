@@ -1,3 +1,4 @@
 gocn
 .idea
 ./test
+./db/data
